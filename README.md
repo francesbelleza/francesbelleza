@@ -1,5 +1,5 @@
 <h1>
-  <img src="anime-frieren.gif" width="50" style="vertical-align: middle; margin-right: 5px;" />
+  <img src="frieren-spinning.gif" width="50" style="vertical-align: middle; margin-right: 5px;" />
   frances
 </h1>
 
