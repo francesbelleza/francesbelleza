@@ -1,11 +1,9 @@
 <h1>
-  <img src="https://media.tenor.com/ocv5JBTjKApAAAAC/frieren-anime.gif" width="80" style="vertical-align: middle; margin-right: 10px;" />
-  frances
+  <img src="anime-frieren.gif" width="80" style="vertical-align: middle; margin-right: 10px;" />
+  Frances Belleza
 </h1>
 
-
-
-> 𝗍𝗁𝗈𝗎𝗀𝗁𝗍𝖿𝗎𝗅 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝗌𝗍 (𝗌𝗈𝖿𝗍𝗐𝖺𝗋𝖾-𝖾𝗇𝗀𝗂𝗇𝖾𝖾𝗋/𝖼𝗋𝖾𝖺𝗍𝗂𝗏𝖾/𝗅𝗂𝖿𝖾-𝗅𝖾𝖺𝗋𝗇𝖾𝗋)
+>    𝗍𝗁𝗈𝗎𝗀𝗁𝗍𝖿𝗎𝗅 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝗌𝗍 (𝗌𝗈𝖿𝗍𝗐𝖺𝗋𝖾-𝖾𝗇𝗀𝗂𝗇𝖾𝖾𝗋/𝖼𝗋𝖾𝖺𝗍𝗂𝗏𝖾/𝗅𝗂𝖿𝖾-𝗅𝖾𝖺𝗋𝗇𝖾𝗋)
 
 I'm a software engineering student with a background in mindfulness & wellness. 
 I care about building technology that supports people, not just through functionality, 
