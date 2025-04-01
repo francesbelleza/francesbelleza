@@ -1,7 +1,9 @@
 <h1>
-  <img src="https://static.wikia.nocookie.net/frieren/images/7/75/Frieren_-_Beyond_Journey%27s_End_logo.png" width="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://media.tenor.com/ocv5JBTjKApAAAAC/frieren-anime.gif" width="80" style="vertical-align: middle; margin-right: 10px;" />
   frances
 </h1>
+
+
 
 > 𝗍𝗁𝗈𝗎𝗀𝗁𝗍𝖿𝗎𝗅 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝗌𝗍 (𝗌𝗈𝖿𝗍𝗐𝖺𝗋𝖾-𝖾𝗇𝗀𝗂𝗇𝖾𝖾𝗋/𝖼𝗋𝖾𝖺𝗍𝗂𝗏𝖾/𝗅𝗂𝖿𝖾-𝗅𝖾𝖺𝗋𝗇𝖾𝗋)
 
@@ -23,8 +25,6 @@ spaces where community, values, and impact come first.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/icons/flask.png" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/JavaFX_Logo.png" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
