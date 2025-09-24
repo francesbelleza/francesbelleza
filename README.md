@@ -15,7 +15,7 @@ spaces where community, values, and impact come first.
 ### 🧋 fun facts
 - currently sipping on osmanthus oolong milk tea
 - learning classical indian dance
-- still playing assasin's creed from time to time
+- playing ghost of tsushima
 - student of dharmic philosophy
 
 ### 🛠️  languages + tools
