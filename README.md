@@ -27,18 +27,29 @@ spaces where community, values, and impact come first.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
 
-### ⚡️ connect 
+### ⚡️ connect
 <p align="left">
   <a href="https://www.linkedin.com/in/frances-belleza/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
+
   <a href="https://www.instagram.com/francesbelleza/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
+    <img 
+      src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
+      width="40"
+      style="filter: invert(1)"
+    />
   </a>
+
   <a href="https://frances.dev" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/455/455691.png" width="40" />
+    <img 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg"
+      width="40"
+      style="filter: invert(1)"
+    />
   </a>
 </p>
+
 
 
 
