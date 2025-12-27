@@ -36,7 +36,7 @@ spaces where community, values, and impact come first.
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
   </a>
   <a href="https:/frances.dev" target="_blank">
-    <img src="[https://cdn-icons-png.flaticon.com/512/2111/2111505.png](https://www.flaticon.com/free-icon/website_3037366)" width="40" />
+    <img src="[[https://cdn-icons-png.flaticon.com/512/2111/2111505.png](https://www.flaticon.com/free-icon/website_3037366)](https://www.iconpacks.net/free-icon/website-9345.html)" width="40" />
   </a>
 </p>
 
