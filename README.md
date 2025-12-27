@@ -43,9 +43,8 @@ spaces where community, values, and impact come first.
 
   <a href="https://frances.dev" target="_blank">
     <img 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg"
+      src="https://cdn-icons-png.flaticon.com/512/841/841364.png"
       width="40"
-      style="filter: invert(1)"
     />
   </a>
 </p>
