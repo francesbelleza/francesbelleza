@@ -6,16 +6,17 @@
 `thoughtful technologist (software engineer / creative / explorer)`
 
 I'm a software engineering student with a background in mindfulness & wellness. 
-I care about building technology that supports people, not just through functionality, 
-but through intention. I'm curious about biology, the human body, and how tech can be used 
-to support health. Right now, I’m exploring how to express my creativity through 
-development. I’m especially interested in software roles in biotech or mission-driven 
-spaces where community, values, and impact come first.
+I care about building technology that helps people in thoughtful, intentional ways. 
+I’m deeply curious about the human body, hardware, and how tech can be used to support 
+health and daily life. Outside of that, I love creating projects that reflect my passions 
+and let me explore ideas creatively. I’m especially drawn to opportunities at hardware 
+companies or mission-driven teams where I can build meaningful things and keep growing.
 
 ### 🧋 fun facts
 - currently sipping on osmanthus oolong milk tea
+- watching re:zero
 - learning classical indian dance
-- playing ghost of tsushima
+- fave game skyrim
 - student of dharmic philosophy
 
 ### 🛠️  languages + tools
